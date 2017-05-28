@@ -5,6 +5,7 @@
 ##exploratory analysis proyect 1
 
 #quiero verificar que se haya creado una nueva rama llamada primera_rama
+## todavia no logro entender que pasa
 
 
 if(!file.exists("proyecto2")){
