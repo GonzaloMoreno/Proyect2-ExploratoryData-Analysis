@@ -4,6 +4,9 @@
 ## en que rama quedaría este tercer comentario
 ##exploratory analysis proyect 1
 
+#quiero verificar que se haya creado una nueva rama llamada primera_rama
+
+
 if(!file.exists("proyecto2")){
   
   dir.create("proyecto2")  
