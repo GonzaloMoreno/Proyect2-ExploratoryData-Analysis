@@ -3,6 +3,9 @@
 ## hagamos otro comentario
 ##exploratory analysis proyect 1
 
+
+## A las 5:53 estoy trabajando sobre la rama que cree
+
 if(!file.exists("proyecto2")){
   
   dir.create("proyecto2")  
