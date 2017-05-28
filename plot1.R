@@ -1,12 +1,19 @@
 
 #hagamso un comentario
 ## hagamos otro comentario
+## en que rama quedaría este tercer comentario
 ##exploratory analysis proyect 1
+
 
 
 ## A las 5:53 estoy trabajando sobre la rama que cree
 ## en este momento siendo las 6:02 ya logre hacer cambios sobre rama hija.
 ## Solo me falta poder hacer el merge
+
+
+
+#quiero verificar que se haya creado una nueva rama llamada primera_rama
+## todavia no logro entender que pas
 
 
 if(!file.exists("proyecto2")){
