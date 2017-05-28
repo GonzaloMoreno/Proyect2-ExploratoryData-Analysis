@@ -1,6 +1,6 @@
 
 ## He borrado todos los comentarios y he puesto este para la egunda rama que cree desde github
-
+## Ahora son las 6:43 y pondré un segundo comentario antes del merge
 
 
 if(!file.exists("proyecto2")){
