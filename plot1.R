@@ -1,6 +1,7 @@
 
 #hagamso un comentario
 ## hagamos otro comentario
+## en que rama quedaría este tercer comentario
 ##exploratory analysis proyect 1
 
 if(!file.exists("proyecto2")){
