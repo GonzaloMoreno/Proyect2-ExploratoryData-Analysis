@@ -5,6 +5,9 @@
 
 
 ## A las 5:53 estoy trabajando sobre la rama que cree
+## en este momento siendo las 6:02 ya logre hacer cambios sobre rama hija.
+## Solo me falta poder hacer el merge
+
 
 if(!file.exists("proyecto2")){
   
